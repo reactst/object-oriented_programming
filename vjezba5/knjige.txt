@@ -1,0 +1,10 @@
+Aldous Huxley; Brave New World; 286
+Shin Takahashi, Iroha Inoue; The Manga Guide to Linear Algebra; No_Starch_The_Manga_Guide_to_Linear_Algebra.pdf; 34.6MB
+Hideo Nitta, Keita Takatsu; The Manga Guide to Physics; No_Starch_The_Manga_Guide_to_Physics.pdf; 49.7MB
+Neal Stephenson; Snow Crash; 476
+Douglas Adams; The Hitchhiker's Guide to the Galaxy; 305
+Allen Holub; Enough Rope to Shoot Yourself in the Foot; Enough_Rope_to_Shoot_Yourself_in_the_Foot.pdf 
+Simson Garfinkel, Daniel Weise and Steven Strassmann; The Unix-Haters Handbook; unixhatershandbook.pdf; 3.5MB
+Pekka Himanen; Hakerska etika; 191
+Aldous Huxley; Island; 336
+Neal Stephenson; Cryptonomicon; 918
