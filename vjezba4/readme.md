@@ -2,7 +2,7 @@
 
 **vježba 4**
 
-**Konstruktori i destruktori**
+## **Konstruktori i destruktori**
 
 Napravite odvojene hpp i cpp datoteke za svaki zadatak. U hpp datotekama su definicije klase
 (zaglavlja), a u cpp datotekama implementacija.

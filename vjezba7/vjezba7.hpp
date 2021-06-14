@@ -79,4 +79,4 @@ class Counter{
     int get_zbroj(){return zbroj;}
     ~Counter(){};
 };
-#endif
+#endif //__VJ_7_HPP

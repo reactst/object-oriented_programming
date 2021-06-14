@@ -51,4 +51,4 @@ public:
     ~money(){};
 };
 
-#endif
+#endif //__VJ_8_HPP

@@ -102,7 +102,7 @@ double avg_duljina(list<string> ls_str){
     list<int> velicine;
     int velicina;
     for (list<string>::iterator i = ls_str.begin(); i != ls_str.end(); i++) {
-        std::string temp = *i;
+        string temp = *i;
         velicina = temp.size();
         velicine.push_back(velicina);
     }
@@ -132,4 +132,4 @@ void list_print(list<string> ls_str){
     return;
 }
 
-#endif
+#endif //__VJEZBA_11

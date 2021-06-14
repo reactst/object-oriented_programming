@@ -28,4 +28,4 @@ class board {
     board (int s, int v);
     ~board();
 };
-#endif
+#endif //DRUGI_H

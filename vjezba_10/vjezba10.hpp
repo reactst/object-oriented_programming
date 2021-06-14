@@ -1,4 +1,4 @@
- #ifndef __VJEZBA_10
+#ifndef __VJEZBA_10
 #define __VJEZBA_10
 #include <iostream>
 #include <ostream>
@@ -34,8 +34,7 @@ public:
         os.close();
     }
 };
-class DjeljenjeSNulom : public exc
-{
+class DjeljenjeSNulom : public exc{
 public:
     string str = " Dijeljenje nulom ";
     void getError()  {
@@ -79,4 +78,4 @@ double foo_bar(int a, int b, char c){
         return a / b;
 }
 
-#endif
+#endif //__VJEZBA_10

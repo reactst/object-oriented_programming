@@ -1,6 +1,6 @@
 ## Objektno programiranje
 **vježba 7**
-**višestruko izvođenje**
+## **višestruko izvođenje**
 
     · Definirajte interface (apstraktnu klasu) vehicle sa metodama type koja vraća string koji predstavlja vrstu prijevoznog sredstva ”water” ili ”air” i passengers koja vraća broj putnika (unsigned).
 

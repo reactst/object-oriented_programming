@@ -70,4 +70,4 @@ void brojac::add_animal(animal &a){
     count += a.get_legs();
     cout << "Dodano: " << a.get_name() << endl;
 }
-#endif
+#endif //__VJ_6_H

@@ -1,7 +1,7 @@
 ## Objektno programiranje
 
 **vježba3**
-**Objekti i klase**
+## **Objekti i klase**
 
 1. Definirati klasu koja predstavlja vektor. Klasa se sastoji od niza double elemenata, logičke i fizičke veličine niza. Fizička veličina je inicijalno init, a kada se ta veličina napuni vrijednostima, alocira se duplo. Napisati funkcije članove vector_new, vector_delete, vector_push_back, vector_pop_back, vector_front, vector_back i vector_size.
 

@@ -2,7 +2,7 @@
 
 **vježba 5**
  
-**Nasljeđivanje**
+## **Nasljeđivanje**
 
 1. Definirajte klasu Book čiji su članovi autor, naslov knjige i godina izdanja. 
 Iz klase Book izvedite dvije klase: HardCopyBook i EBook. 

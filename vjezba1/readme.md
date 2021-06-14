@@ -2,7 +2,7 @@
 
 **Vježba 1**
 
-_UNOS I ISPIS_
+## _UNOS I ISPIS_
 
 Unos se realizira pomoću cin objekta klase istream, a ispis pomoću cout koji je
 objekt klase ostream. Objekt cout koristi se u kombinaciji sa operatorom <<, a

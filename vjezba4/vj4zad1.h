@@ -27,4 +27,4 @@ public:
     vektor(vektor &v);
     ~vektor();
 };
-#endif
+#endif //PRVI_H

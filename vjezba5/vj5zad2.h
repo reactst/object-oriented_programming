@@ -34,4 +34,4 @@ public:
     void        pc_hand();
 };
 
-#endif
+#endif //DRUGI_H

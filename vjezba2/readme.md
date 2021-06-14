@@ -1,6 +1,6 @@
 ## Objektno programiranje
 **vježba 2**
-**dinamička alokacija**
+## **dinamička alokacija**
 
     1. Napisati funkciju koja računa najveći i najmanji broj u nizu od n prirodnih brojeva. Funkcija vraća tražene brojeve pomoću referenci.
 
