@@ -26,9 +26,9 @@ Detaljnija tablica http://www.cplusplus.com/reference/library/manipulators/
 
 **independent flags (switch on)**
 
-boolalpha || ispis bool vrijednosti kao string
+| boolalpha | ispis bool vrijednosti kao string |
 
-uppercase || velika slova u hex prikazu, E u eksponencijalnom zapisu
+| uppercase | velika slova u hex prikazu, E u eksponencijalnom zapisu |
 
 
 **independent flags (switch off)**
