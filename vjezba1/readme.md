@@ -25,68 +25,56 @@ Manipulatori se koriste za formatiranje ulaza i izlaza.
 Detaljnija tablica http://www.cplusplus.com/reference/library/manipulators/
 
 
-| **independent flags** |  **(switch on)** |
+| **independent flags (switch on)**|  |
 |---------------------|---------------|
 | boolalpha | ispis bool vrijednosti kao string |
-
 | uppercase | velika slova u hex prikazu, E u eksponencijalnom zapisu |
 
 
-**independent flags (switch off)**
-
-noboolalpha || ispis bool vrijednosti kao broj 1 ili 0
-
-nouppercase || ne generira velika slova u ispisu
-
-
-**numerical base format flags**
-
-dec || decimalni format za cijele brojeve (baza 10)
-
-oct || oktalni format za cijele brojeve (baza 8)
-
-hex || heksadecimalni format za cijele brojeve (baza 16)
+| **independent flags (switch off)**| |
+|---------------------|---------------|
+| noboolalpha | ispis bool vrijednosti kao broj 1 ili 0|
+|nouppercase | ne generira velika slova u ispisu|
 
 
-**floating point format flags**
-
-fixed || zapis sa pomičnim zarezom za realne brojeve
-
-scientific || eksponencijalni zapis za realne brojeve
-
-
-**adjustment format flags**
-
-left || lijevo poravnanje
-
-right || desno poravnanje
+|**numerical base format flags**| |
+|---------------------|---------------|
+|dec | decimalni format za cijele brojeve (baza 10)|
+|oct | oktalni format za cijele brojeve (baza 8)|
+|hex | heksadecimalni format za cijele brojeve (baza 16)|
 
 
-**input manipulatori**
-
-ws || ekstrahira whitespaceove
-
-
-**output manipulatori**
-
-endl || kraj linije
-
-ends || kraj stringa
-
-flush || prazni stream
+|**floating point format flags**||
+|---------------------|---------------|
+|fixed | zapis sa pomičnim zarezom za realne brojeve|
+|scientific | eksponencijalni zapis za realne brojeve|
 
 
-**parametrizirani manipulatori (<iomanip>)**
+|**adjustment format flags**| |
+|---------------------|---------------|
+|left | lijevo poravnanje|
+|right | desno poravnanje|
 
-setprecision || preciznost decimalnih brojeva
 
-setbase || zapis u bazi
+|**input manipulatori**| |
+|---------------------|---------------|
+|ws | ekstrahira whitespaceove|
 
-setfill || znak za ispunjavanje
 
-setiosflags || postavlja određene formate
+|**output manipulatori**||
+|---------------------|---------------|
+|endl | kraj linije|
+|ends | kraj stringa|
+|flush | prazni stream|
 
-resetiosflags || resetira određene formate
+
+|**parametrizirani manipulatori (<iomanip>)**||
+|---------------------|---------------|
+|setprecision | preciznost decimalnih brojeva|
+|setbase | zapis u bazi|
+|setfill | znak za ispunjavanje|
+|setiosflags | postavlja određene formate|
+|resetiosflags | resetira određene formate|
 
 
 ZADATAK
